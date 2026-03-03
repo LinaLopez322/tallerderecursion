@@ -1,0 +1,589 @@
+2026.03.02 20:03:30 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\marce\TallerRecursion' for client Visual Studio Code 1.109.5.
+2026.03.02 20:03:30 INFO  Memory monitor started
+2026.03.02 20:03:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.02 20:03:46 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:03:51 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:03:53 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+mar. 02, 2026 8:03:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2026.03.02 20:03:54 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:03:56 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/build.sbt
+2026.03.02 20:03:56 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:03:56 WARN  no build target for: C:\Users\marce\TallerRecursion\build.sbt
+2026.03.02 20:03:56 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:03:56 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/build.sbt
+2026.03.02 20:03:56 INFO  no build target found for C:\Users\marce\TallerRecursion\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:03:56 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/build.sbt
+mar. 02, 2026 8:04:06 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.02 20:07:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\Recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:07:50 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/main/scala/Recursion/package.scala
+2026.03.02 20:09:04 INFO  no build target found for c:\Users\marce\TallerRecursion\src\main\scala\Recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:10:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:10:31 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/main/scala/recursion/package.scala
+2026.03.02 20:10:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:10:52 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:10:58 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:10:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:10:58 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/main/scala/recursion/package.scala
+2026.03.02 20:11:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:20 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:11:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:31 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:11:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:31 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:11:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:34 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:11:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:35 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:11:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:11:35 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:28 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:28 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:28 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:27 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:29 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:29 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:30 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:30 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:31 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:31 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:31 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:32 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:33 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:34 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:34 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:35 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:36 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:36 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:36 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:38 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:38 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:39 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:38 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:39 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:40 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:40 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:40 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:40 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:41 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:41 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:41 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:41 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:43 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:44 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:44 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:44 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:46 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:46 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:47 WARN  no build target for: C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc
+2026.03.02 20:12:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\test\scala\pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:47 WARN  Could not find semantic tokens for: file:///C:/Users/marce/TallerRecursion/src/test/scala/pruebas.sc
+2026.03.02 20:12:56 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:12:56 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:56 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:56 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:56 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:00 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:12:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:01 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:02 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:02 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:02 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:03 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:05 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:05 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:08 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:11 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:11 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:11 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:11 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:11 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+mar. 02, 2026 8:13:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 329
+2026.03.02 20:13:11 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:12 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:12 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:12 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:13 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:12 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:13 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:17 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:20 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:21 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:21 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:21 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:21 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:22 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:23 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:23 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:23 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:23 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:24 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:24 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:24 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:25 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:25 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:26 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:25 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:26 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:27 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:28 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:29 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:33 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:36 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:40 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:13:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:40 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:13:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:22 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:25 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:25 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:28 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:30 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:30 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:31 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:32 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:33 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:35 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:36 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+mar. 02, 2026 8:21:37 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 607
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:38 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:38 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:39 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:21:39 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:40 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:40 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:44 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:45 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:46 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:48 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:48 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:21:48 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:50 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:21:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:53 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:54 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:21:54 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:54 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+mar. 02, 2026 8:21:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 719
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+mar. 02, 2026 8:21:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 726
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:58 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:21:59 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:00 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:00 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:00 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:00 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:01 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:22:01 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:05 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:22:04 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:05 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:07 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:08 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:22:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:09 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:22:09 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:09 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:17 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:18 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 20:22:20 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 20:22:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 21:06:03 INFO  Shutting down server
+2026.03.02 21:06:03 INFO  Memory monitor stopped
+2026.03.02 21:06:03 INFO  shutting down Metals
+2026.03.02 21:21:01 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\marce\TallerRecursion' for client Visual Studio Code 1.109.5.
+2026.03.02 21:21:01 INFO  Memory monitor started
+2026.03.02 21:21:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.02 21:21:06 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 21:21:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 21:21:14 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 21:21:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 21:21:16 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.02 21:21:19 INFO  time: code lens generation in 2.63s
+2026.03.02 21:21:19 INFO  time: code lens generation in 2.63s
+2026.03.02 21:21:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.02 21:50:20 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:09 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\marce\TallerRecursion' for client Visual Studio Code 1.109.5.
+2026.03.03 10:19:09 INFO  Memory monitor started
+2026.03.03 10:19:15 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.03 10:19:15 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:26 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:42 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:48 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:48 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:48 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:49 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:50 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:51 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:52 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.03 10:19:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:52 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:53 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:19:53 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:19 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:21 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:21 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+mar. 03, 2026 10:20:42 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.03 10:20:43 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:47 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:54 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:20:54 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:10 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:16 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:26 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:27 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:29 WARN  no build target for: C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala
+2026.03.03 10:21:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:30 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:29 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:34 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:21:37 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:25:57 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:26:01 INFO  
+2026.03.03 10:26:01 INFO  Template applied in C:\Users\marce\.\hello-world
+2026.03.03 10:26:01 INFO  
+2026.03.03 10:26:01 INFO  time: ran 'giter8.Giter8' in 7.59s
+2026.03.03 10:26:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:26:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:26:08 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:26:09 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:26:12 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.03 10:26:12 INFO  no build target found for C:\Users\marce\TallerRecursion\src\main\scala\recursion\package.scala. Using presentation compiler with project's scala-library version: 3.3.7
