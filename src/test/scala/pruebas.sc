@@ -44,7 +44,34 @@ assert(pascal(1, 2) == 2) // Según el ejemplo: pascal(1,2)=2 [3]
 val p5 = pascal(2, 4)
 assert(pascal(2, 4) == 6)
 
-// --- Casos de Prueba para la función Balanceado ---
+// --- Casos de Prueba para la funcion Balanceo de Parentesis ---
+balanceado("(5x - (3 * 4(x - 3)) + ((x-2) / 3(x + 5)) + 3x) ".toList)
+assert(balanceado("(5x - (3 * 4(x - 3)) + ((x-2) / 3(x + 5)) + 3x) ".toList) == true)
+balanceado("(este fin) de semana) son elecciones (".toList)
+assert(balanceado("(este fin) de semana) son elecciones (".toList) == false)
+
+balanceado("((((((buenas noches)))".toList)
+assert(balanceado("((((((buenas noches)))".toList) == false)
+
+balanceado("el jueves hay futbol".toList)
+assert(balanceado("el jueves hay futbol".toList) == true)
+
+balanceado("(hay (que (repasar) hoy) para (ganar (el parcial))".toList)
+assert(balanceado("(hay (que (repasar) hoy) para (ganar (el parcial))".toList) == false )
 
 
-// --- Casos de Prueba para la función Cambio de Monedas ---
+// --- Casos de Prueba para la funcion Cambio de Monedas ---
+cambioMonedas(501, List(50,100,40,200,300,500))
+assert(cambioMonedas(501, List(50,100,40,200,300,500)) == 0)
+
+cambioMonedas(0, List(100,20,30,500))
+assert(cambioMonedas(0, List(100,20,30,500)) == 1)
+
+cambioMonedas(100, List(1, 5, 10, 25))
+assert(cambioMonedas(100, List(1, 5, 10, 25)) == 242)
+
+cambioMonedas(300, List(50))
+assert(cambioMonedas(300, List(50)) == 1)
+
+cambioMonedas(300, List(10, 20, 50, 100, 200, 500))
+assert(cambioMonedas(300, List(10, 20, 50, 100, 200, 500)) == 109)
